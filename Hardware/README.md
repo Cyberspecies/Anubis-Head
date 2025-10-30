@@ -1,4 +1,16 @@
 # Hardware
-Hardware Overview - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut viverra interdum nisi. In hac habitasse platea dictumst. Integer tincidunt, felis a pellentesque scelerisque, turpis sapien lacinia lectus, eu ultricies nibh leo mollis metus. Nullam a velit condimentum, tempor felis sit amet, euismod lectus. Phasellus sed orci a lectus placerat lacinia sed ac magna. Pellentesque quis mollis dolor. Suspendisse vel imperdiet mauris, a aliquam urna. Ut mattis risus nec sem tincidunt, ac facilisis sem fringilla. Praesent placerat vehicula euismod. Suspendisse volutpat massa id massa facilisis porta. 
 
-![Hardware_Capabilities](/.assets/Undaconstwuction.png)
+## Printed Parts
+All parts are printed separately and either epoxy glued or welded together. Ensure each component fits properly before final assembly. The design should fit most heads comfortably, the gap between the jaw joints is 163mm however that will be behind the head so it doesnt matter as much and the actual width where the ears would touch is around 189mm.
+
+![All Parts](../.assets/Anubis%20Head%20Exploded%20View.png)
+
+## Rubber Band Location
+Normal rubber bands are placed and folded 4 times around the ridges on the jaw joint. This provides tension and allows for movement. Adjust the tightness as needed for comfort and function. Do note that if you want to fully secuter the jaw in place, the hole in the jaw joint is designed for an M4 bolt.
+
+![Rubber Band Location](../.assets/Anubis%20Head%20Rubber%20Band.png)
+
+## Mesh
+You should print two meshes, ideally mirrored on the print bed so that both eyes have the same texture facing outwards.   The eye mesh should be printed with approximately 40% rectilinear infill and 12 walls at a 0.2mm layer height. This will achieve the same density as shown in the reference photos. The mesh is spot welded into the mask by pressing something hot along the edge of the mesh (the 12-wall border) to secure it in place.
+
+![Eye Mesh Ideal Print Settings](../.assets/Anubis%20Eye%20Mesh%20Print%20Gcode.png)
