@@ -5,6 +5,11 @@ All parts are printed separately and either epoxy glued or welded together. Ensu
 
 ![All Parts](../.assets/Anubis%20Head%20Exploded%20View.png)
 
+- 180mm x 180mm x 180mm Single colour version: [here](/Hardware/180x180x180mm%20Single%20Colour/)
+- 180mm x 180mm x 180mm Multi colour version: [here](/Hardware/180x180x180mm%20Multi%20Colour/)
+- 320mm x 320mm x 320mm Single colour version: [here](/Hardware/320x320x320mm%20Single%20Colour/)
+- 320mm x 320mm x 320mm Multi colour version: [here](/Hardware/320x320x320mm%20Multi%20Colour/)
+
 ## Rubber Band Location
 Normal rubber bands are placed and folded 4 times around the ridges on the jaw joint. This provides tension and allows for movement. Adjust the tightness as needed for comfort and function. Do note that if you want to fully secuter the jaw in place, the hole in the jaw joint is designed for an M4 bolt.
 

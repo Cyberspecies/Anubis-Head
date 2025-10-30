@@ -17,5 +17,5 @@ All files are available on [printables](https://www.printables.com/model/1464114
 
 ## Roadmap
 * Milestones: Fully printable single colour per print version
-* Work In Progress: Small build volume split stl version
-* Work In Progress: Full colour version (no assembly)
+* Milestones: Small build volume split stl version
+* Milestones: Full colour version (no assembly)
